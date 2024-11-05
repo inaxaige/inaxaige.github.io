@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inaxaige.github.io/LvX/sitemap_index.txt
+Sitemap: https://inaxaige.github.io/VoH/sitemap_index.txt
+Sitemap: https://inaxaige.github.io/YeG/sitemap_index.txt
+Sitemap: https://inaxaige.github.io/bjT/sitemap_index.txt
